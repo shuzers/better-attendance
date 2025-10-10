@@ -58,6 +58,7 @@ If you want to use it right now:
 2. **Extract the Files**
    - Extract the ZIP contents to a permanent folder (e.g., `AttendanceExtension`).
    - Don’t move or delete this folder afterward.
+   - Add 3 images named icon16,icon48,icon128 serving as the logo and title for the extension if you fork it.
 
 3. **Enable Developer Mode**
    - For **Chrome**: Go to `chrome://extensions`  
