@@ -1,0 +1,20 @@
+{
+  "manifest_version": 3,
+  "name": "CUTM Better Attendance",
+  "version": "1.0",
+  "description": "Calculates how many classes you can bunk or need to attend to maintain 75% attendance",
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": ["*://cutm.icloudems.com/corecampus/student/attendance/*"],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ],
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}
