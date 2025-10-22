@@ -10,40 +10,16 @@ Easily track your progress and know exactly:
 
 ---
 
-## ✨ Features
-
-### 🧮 Combined Attendance Tracking
-Automatically groups attendance data for courses that appear on multiple rows (e.g., **theory** and **practical** sections) and calculates a single, accurate combined percentage.
-
-### 🎯 Visual Progress Indicator
-Adds a **vibrant, color-coded SVG progress circle** column that gives instant visual feedback on your current standing.
-
-### 📊 Actionable Status Column
-A new column clearly displays one of two helpful messages:
-- 🟢 **Can Bunk X classes** – Shows the maximum classes you can miss before falling below target.
-- 🔴 **Attend Y classes** – Shows how many consecutive classes you must attend to reach 75%.
-
-### 🌈 Responsive Color Coding
-Colors change dynamically based on your current attendance:
-| Color | Meaning | Range |
-|:------|:--------|:------|
-| 🟢 Green / Safe | Above target | > 80% |
-| 🟡 Yellow / Caution | Near target | 75–80% |
-| 🔴 Red / Urgent | Below target | < 75% |
-
----
 
 ## 🛠️ Installation
 
 This extension works on all **Chromium-based browsers** (e.g., Google Chrome, Microsoft Edge).
 
-### Option 1: Install from Browser Store *(Coming Soon)*
-The extension will soon be available on:
-- **Microsoft Edge Add-ons** Store  
-- **Chrome Web Store**
+### Option 1: Install from Browser Store
+The extension is now available on [Microsoft Addons Store](https://microsoftedge.microsoft.com/addons/detail/cutm-better-attendance/cijdeomhncdmfhfcelmhoecabhbnelgg). Download And Enjoy. 
 
-Once available:
-1. Search for **“University Attendance Calculator”**.
+By Search
+1. Search for **“CUTM Better Attendance”** on Microsoft Add-ons Store.
 2. Click **Install** to add it to your browser.
 
 ---
@@ -71,6 +47,28 @@ If you want to use it right now:
 5. **View Your Attendance**
    - Go to your university’s attendance portal.  
    - The new **progress circle** and **status columns** will appear automatically!
+
+---
+## ✨ Features
+
+### 🧮 Combined Attendance Tracking
+Automatically groups attendance data for courses that appear on multiple rows (e.g., **theory** and **practical** sections) and calculates a single, accurate combined percentage.
+
+### 🎯 Visual Progress Indicator
+Adds a **vibrant, color-coded SVG progress circle** column that gives instant visual feedback on your current standing.
+
+### 📊 Actionable Status Column
+A new column clearly displays one of two helpful messages:
+- 🟢 **Can Bunk X classes** – Shows the maximum classes you can miss before falling below target.
+- 🔴 **Attend Y classes** – Shows how many consecutive classes you must attend to reach 75%.
+
+### 🌈 Responsive Color Coding
+Colors change dynamically based on your current attendance:
+| Color | Meaning | Range |
+|:------|:--------|:------|
+| 🟢 Green / Safe | Above target | > 80% |
+| 🟡 Yellow / Caution | Near target | 75–80% |
+| 🔴 Red / Urgent | Below target | < 75% |
 
 ---
 
